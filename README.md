@@ -6,7 +6,7 @@
 Els membres que conformen l'equip són:
 
 1. **Marc González Planes** - [@Magopla](https://github.com/Magopla)</li>
-2. **Maria Sunyer** -[@Usuari](enllaç)</li>
+2. **Maria Sunyer** -[@MSunyerR](https://github.com/MSunyerR)</li>
 
 
 ## Context
