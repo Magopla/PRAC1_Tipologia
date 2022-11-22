@@ -21,7 +21,8 @@ https://www.ulabox.com/
 
 ## Títol del dataset
 El dataset resultat s’ha anomenat:
-**Nov-18-2022_productes_alimentacio_ulabox.csv**
+
+**Nov-19-2022_productes_alimentacio_ulabox.csv**
 
 ## Descripció del dataset
 Aquest dataset agrupa informació referent a tots els productes d’alimentació disponibles al supermercat Ulabox. Per cada producte, obtenim l’informació mostrada en la página web:  el seu nom, imatge, preu, informació nutricional i fabricant. A més a més, guardem l’enllaç a on es troba el producte i la categoria i subcategoria dins del supermercat.
